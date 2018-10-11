@@ -13,7 +13,7 @@
   
   To get started the various input features and their dependency with the output is observed and the most important features are filtered out. Feature engineering will be done for the data followed by feature selection or feature reduction. Also the distribution of the datasets will be studied to come up with the right learning algorithm or any ensemble model. Any skews, outliers and variance are analyzed. Once data preprocessing is done the models are trained and predictions can be made.
 
-# 4) what datasets are you using 
+# 4) Datasets to be used
   
   Datasets from kaggle, UCI repository and other datasets that will be used, is available in the link below.
 https://googleweblight.com/i?u=https://catalog.data.gov/dataset?vocab_category_all%3DNatural%2BHazards&hl=en-IN
